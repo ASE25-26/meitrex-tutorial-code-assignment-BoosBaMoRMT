@@ -9,8 +9,8 @@
 
 # Build artifacts
 *.class
-*.jar
-!gradle/wrapper/gradle-wrapper.jar
+#*.jar
+#!gradle/wrapper/gradle-wrapper.jar
 *.war
 *.ear
 *.zip
